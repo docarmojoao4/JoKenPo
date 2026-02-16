@@ -34,4 +34,3 @@ O jogador disputa contra a CPU, e o primeiro a vencer **3 rodadas** ganha a part
 - Estruturas de repetição (while)
 - Condicionais (if/else)
 
----
